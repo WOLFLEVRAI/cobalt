@@ -1,0 +1,33 @@
+{
+    "page.general": "c’est quoi cobalt ?",
+    "page.community": "communauté & support",
+    "page.privacy": "politique de confidentialité",
+    "page.terms": "conditions et éthique",
+    "page.credits": "remerciements & licences",
+
+    "heading.general": "conditions générales",
+    "heading.licenses": "licences",
+    "heading.summary": "la meilleure façon de sauvegarder ce que tu aimes",
+    "heading.privacy_efficiency": "confidentialité et efficacité de pointe",
+    "heading.community": "communauté ouverte",
+    "heading.local": "traitement local",
+    "heading.saving": "sauvegarde",
+    "heading.encryption": "chiffrement",
+    "heading.plausible": "statistiques de trafic anonymes",
+    "heading.cloudflare": "confidentialité et sécurité web",
+    "heading.responsibility": "responsabilités de l’utilisateur",
+    "heading.abuse": "signaler un abus",
+    "heading.motivation": "motivation",
+    "heading.testers": "testeurs bêta",
+    "heading.partners": "partenaires",
+
+    "support.github": "consulte le code source de cobalt, contribue ou signale des problèmes",
+    "support.discord": "discute avec la communauté et les développeurs ou demande de l’aide",
+    "support.twitter": "suis les mises à jour et le développement de cobalt sur twitter",
+    "support.telegram": "reste informé des dernières mises à jour via le canal telegram",
+    "support.bluesky": "suis les mises à jour et le développement de cobalt sur bluesky",
+
+    "support.description.issue": "si tu veux signaler un bug ou un problème récurrent, fais-le sur github.",
+    "support.description.help": "utilise discord pour toute autre question. décris bien ton problème dans #cobalt-support sinon personne ne pourra t’aider.",
+    "support.description.best-effort": "le support est fourni sans garantie. une réponse peut prendre du temps."
+}

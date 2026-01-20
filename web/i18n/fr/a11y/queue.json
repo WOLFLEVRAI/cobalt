@@ -1,0 +1,5 @@
+{
+    "status.default": "file d’attente de traitement",
+    "status.completed": "file d’attente de traitement. toutes les tâches sont terminées.",
+    "status.ongoing": "file d’attente de traitement. tâches en cours."
+}

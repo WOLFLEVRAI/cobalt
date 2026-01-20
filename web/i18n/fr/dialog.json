@@ -1,0 +1,22 @@
+{
+    "reset_settings.title": "réinitialiser tous les paramètres ?",
+    "reset_settings.body": "es-tu sûr de vouloir réinitialiser tous les paramètres ? cette action est immédiate et irréversible.",
+
+    "picker.title": "sélectionne ce que tu veux sauvegarder",
+    "picker.description.desktop": "clique sur un élément pour le sauvegarder. les images peuvent aussi être enregistrées via le menu clic droit.",
+    "picker.description.phone": "appuie sur un élément pour le sauvegarder. les images peuvent aussi être enregistrées avec un appui long.",
+    "picker.description.ios": "appuie sur un élément pour le sauvegarder via un raccourci. les images peuvent aussi être enregistrées avec un appui long.",
+
+    "saving.title": "choisis comment sauvegarder",
+    "saving.blocked": "cobalt a essayé d’ouvrir le fichier dans un nouvel onglet, mais ton navigateur l’a bloqué. tu peux autoriser les pop-ups pour cobalt afin d’éviter ce problème à l’avenir.",
+    "saving.timeout": "cobalt a tenté de sauvegarder le fichier automatiquement, mais ton navigateur l’a empêché. tu dois sélectionner une méthode manuellement.",
+
+    "safety.title": "avis de sécurité important",
+
+    "import.body": "importer des fichiers inconnus ou corrompus peut modifier ou casser le fonctionnement de cobalt de manière inattendue. importe uniquement des fichiers que tu as exportés toi-même et que tu n’as pas modifiés. si quelqu’un t’a demandé d’importer ce fichier, ne le fais pas.\n\nnous ne sommes pas responsables des dommages causés par l’importation de fichiers de paramètres inconnus.",
+
+    "safety.custom_instance.body": "les instances personnalisées peuvent présenter des risques pour la confidentialité et la sécurité.\n\nles mauvaises instances peuvent :\n1. te rediriger hors de cobalt et tenter de t’arnaquer.\n2. enregistrer toutes les informations liées à tes requêtes, les stocker indéfiniment et les utiliser pour te tracer.\n3. te fournir des fichiers malveillants (comme des malwares).\n4. te forcer à regarder des publicités ou à payer pour télécharger.\n\nà partir d’ici, nous ne pouvons plus te protéger. sois attentif aux instances que tu utilises et fais toujours confiance à ton instinct. si quelque chose te paraît louche, reviens sur cette page, réinitialise l’instance personnalisée et signale-la sur github.",
+
+    "clear_cache.title": "vider tout le cache ?",
+    "clear_cache.body": "tous les fichiers de la file de traitement seront supprimés et certaines fonctionnalités locales mettront plus de temps à se charger. cette action est immédiate et irréversible."
+}

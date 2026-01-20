@@ -1,0 +1,37 @@
+{
+    "banner.title": "Soutiens un Internet\nsûr et ouvert",
+    "banner.subtitle": "fais un don à imput ou partage\nla joie de cobalt avec un ami",
+
+    "body.motivation": "cobalt aide les créateurs, éducateurs, vidéastes et bien d’autres à faire ce qu’ils aiment. c’est un service différent, fait avec amour et non pour le profit.",
+    "body.no_bullshit": "nous croyons que l’internet ne doit pas être effrayant, c’est pourquoi cobalt n’aura jamais de pubs ni de contenus malveillants. c’est une promesse que nous respectons fermement. tout ce que nous faisons est pensé pour la confidentialité, l’accessibilité et la facilité d’utilisation, rendant cobalt disponible pour tous.",
+    "body.keep_going": "si tu trouves cobalt utile, pense à soutenir notre travail ! tu peux nous aider en faisant un don ou en partageant cobalt avec un ami. chaque don est très apprécié et nous permet de continuer à développer cobalt et d’autres projets.",
+
+    "card.once": "don unique",
+    "card.recurring": "don récurrent",
+    "card.custom": "montant personnalisé (à partir de 2$)",
+
+    "card.processor": "via {{value}}",
+
+    "card.option.5": "une tasse de café",
+    "card.option.10": "une pizza entière",
+    "card.option.15": "un déjeuner complet",
+    "card.option.30": "déjeuner pour deux",
+    "card.option.50": "10 kg de croquettes pour chat",
+    "card.option.100": "un an de noms de domaine",
+    "card.option.200": "friteuse à air",
+    "card.option.500": "fauteuil de bureau design",
+    "card.option.1599": "MacBook Pro de base",
+    "card.option.4900": "10 000 pommes",
+    "card.option.7398": "MacBook Pro maxé",
+    "card.option.8629": "un petit terrain",
+    "card.option.9433": "spa de luxe",
+
+    "card.custom.submit": "faire un don personnalisé",
+
+    "share.title": "partage cobalt avec un ami",
+
+    "alternative.title": "autres façons de donner",
+
+    "alt.copy": "{{ value }}. adresse de portefeuille crypto. appuie pour copier.",
+    "alt.open": "{{ value }}. appuie pour ouvrir."
+}

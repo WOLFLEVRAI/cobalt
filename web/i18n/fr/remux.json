@@ -1,0 +1,8 @@
+{
+    "bullet.purpose.title": "à quoi sert le remux ?",
+    "bullet.purpose.description": "le remux corrige les problèmes liés au conteneur du fichier, comme les infos de temps manquantes. ça augmente la compatibilité avec les anciens logiciels, comme Vegas Pro ou Windows Media Player.",
+    "bullet.explainer.title": "comment ça marche ?",
+    "bullet.explainer.description": "le remux copie les données codec existantes dans un nouveau conteneur média. c’est sans perte : les données du média ne sont pas ré-encodées.",
+    "bullet.privacy.title": "traitement local",
+    "bullet.privacy.description": "cobalt remuxe les fichiers directement sur ton appareil. les fichiers ne quittent jamais ton appareil, donc le traitement est quasi instantané."
+}

@@ -1,0 +1,63 @@
+{
+    "auth.jwt.missing": "impossible de s'authentifier avec l'instance de traitement car le jeton d'accès est manquant. réessayez dans quelques secondes ou rechargez la page !",
+    "auth.jwt.invalid": "impossible de s'authentifier avec l'instance de traitement car le jeton d'accès est invalide. réessayez dans quelques secondes ou rechargez la page !",
+    "auth.turnstile.missing": "impossible de s'authentifier avec l'instance de traitement car la solution captcha est manquante. réessayez dans quelques secondes ou rechargez la page !",
+    "auth.turnstile.invalid": "impossible de s'authentifier avec l'instance de traitement car la solution captcha est invalide. réessayez dans quelques secondes ou rechargez la page !",
+
+    "auth.key.missing": "une clé d'accès est requise pour utiliser cette instance de traitement mais elle est manquante. ajoutez-la dans les paramètres d'instance !",
+    "auth.key.not_api_key": "une clé d'accès est requise pour utiliser cette instance de traitement mais elle est manquante. ajoutez-la dans les paramètres d'instance !",
+
+    "auth.key.invalid": "la clé d'accès est invalide. réinitialisez-la dans les paramètres d'instance et utilisez-en une correcte !",
+    "auth.key.not_found": "la clé d'accès que vous avez utilisée n'a pas pu être trouvée. êtes-vous sûr que cette instance a votre clé ?",
+    "auth.key.invalid_ip": "votre adresse IP n'a pas pu être analysée. quelque chose s'est très mal passé. signalez ce problème !",
+    "auth.key.ip_not_allowed": "votre adresse IP n'est pas autorisée à utiliser cette clé d'accès. utilisez une instance ou un réseau différent !",
+    "auth.key.ua_not_allowed": "votre agent utilisateur n'est pas autorisé à utiliser cette clé d'accès. utilisez un client ou un appareil différent !",
+
+    "unreachable": "impossible de se connecter à l'instance de traitement. vérifiez votre connexion internet et réessayez !",
+    "timed_out": "l'instance de traitement a pris trop de temps à répondre. elle peut être surchargée en ce moment, réessayez dans quelques secondes !",
+    "rate_exceeded": "vous faites trop de requêtes. réessayez dans {{ limit }} secondes.",
+    "capacity": "cobalt est à pleine capacité et ne peut pas traiter votre requête pour le moment. réessayez dans quelques secondes !",
+
+    "generic": "quelque chose s'est mal passé et je n'ai rien pu obtenir pour vous, réessayez dans quelques secondes. si le problème persiste, veuillez le signaler !",
+    "unknown_response": "impossible de lire la réponse de l'instance de traitement. cela est probablement causé par l'application web étant obsolète. rechargez l'application et réessayez !",
+    "invalid_body": "impossible d'envoyer la requête à l'instance de traitement. cela est probablement causé par l'application web étant obsolète. rechargez l'application et réessayez !",
+
+    "service.unsupported": "ce service n'est pas encore pris en charge. avez-vous collé le bon lien ?",
+    "service.disabled": "ce service est généralement pris en charge par cobalt, mais il est désactivé sur cette instance de traitement. essayez un lien d'un autre service !",
+    "service.audio_not_supported": "ce service ne prend pas en charge l'extraction audio. essayez un lien d'un autre service !",
+
+    "link.invalid": "votre lien est invalide ou ce service n'est pas encore pris en charge. avez-vous collé le bon lien ?",
+    "link.unsupported": "{{ service }} est pris en charge, mais je n'ai pas pu reconnaître votre lien. avez-vous collé le bon ?",
+
+    "fetch.fail": "quelque chose s'est mal passé lors de la récupération d'informations de {{ service }} et je n'ai rien pu obtenir pour vous. si ce problème persiste, veuillez le signaler !",
+    "fetch.critical": "le module {{ service }} a retourné une erreur que je ne reconnais pas. réessayez dans quelques secondes, mais si ce problème persiste, veuillez le signaler !",
+    "fetch.critical.core": "un des modules principaux a retourné une erreur que je ne reconnais pas. réessayez dans quelques secondes, mais si ce problème persiste, veuillez le signaler !",
+    "fetch.empty": "impossible de trouver un média que je pourrais télécharger pour vous. êtes-vous sûr d'avoir collé le bon lien ?",
+    "fetch.rate": "l'instance de traitement a été limitée par {{ service }}. réessayez dans quelques secondes !",
+    "fetch.short_link": "impossible d'obtenir des informations du lien court. êtes-vous sûr qu'il fonctionne ? s'il fonctionne et que vous obtenez toujours cette erreur, veuillez signaler ce problème !",
+
+    "content.too_long": "le média que vous avez demandé est trop long. la limite de durée sur cette instance est de {{ limit }} minutes. essayez quelque chose de plus court à la place !",
+
+    "content.video.unavailable": "je ne peux pas accéder à cette vidéo. elle peut être restreinte du côté de {{ service }}. essayez un lien différent !",
+    "content.video.live": "cette vidéo est actuellement en direct, donc je ne peux pas la télécharger pour le moment. attendez que le stream en direct se termine et réessayez !",
+    "content.video.private": "cette vidéo est privée, donc je ne peux pas y accéder. changez sa visibilité ou essayez-en une autre !",
+    "content.video.age": "cette vidéo est restreinte par âge, donc je ne peux pas y accéder anonymement. réessayez ou essayez un lien différent !",
+    "content.video.region": "cette vidéo est verrouillée par région, et l'instance de traitement est dans un emplacement différent. essayez un lien différent !",
+
+    "content.region": "ce contenu est verrouillé par région, et l'instance de traitement est dans un emplacement différent. essayez un lien différent !",
+    "content.paid": "ce contenu nécessite un achat. cobalt ne peut pas télécharger de contenu payant. essayez un lien différent !",
+
+    "content.post.unavailable": "impossible de trouver quoi que ce soit sur ce post. sa visibilité peut être limitée ou il peut ne pas exister. assurez-vous que votre lien fonctionne et réessayez dans quelques secondes !",
+    "content.post.private": "impossible d'obtenir quoi que ce soit sur ce post car il provient d'un compte privé. essayez un lien différent !",
+    "content.post.age": "ce post est restreint par âge, donc je ne peux pas y accéder anonymement. réessayez ou essayez un lien différent !",
+
+    "youtube.no_matching_format": "youtube n'a retourné aucun format acceptable. cobalt peut ne pas les prendre en charge ou ils sont en cours de ré-encodage du côté de youtube. réessayez un peu plus tard, mais si ce problème persiste, veuillez le signaler !",
+    "youtube.decipher": "youtube a mis à jour son algorithme de déchiffrement et je n'ai pas pu extraire les informations sur la vidéo. réessayez dans quelques secondes, mais si ce problème persiste, veuillez le signaler !",
+    "youtube.login": "impossible d'obtenir cette vidéo car youtube a demandé à l'instance de traitement de prouver qu'elle n'est pas un bot. réessayez dans quelques secondes, mais si cela ne fonctionne toujours pas, veuillez signaler ce problème !",
+    "youtube.token_expired": "impossible d'obtenir cette vidéo car le jeton youtube a expiré et n'a pas été rafraîchi. réessayez dans quelques secondes, mais si cela ne fonctionne toujours pas, veuillez signaler ce problème !",
+    "youtube.no_hls_streams": "impossible de trouver des streams HLS correspondants pour cette vidéo. essayez de la télécharger sans HLS !",
+    "youtube.api_error": "youtube a mis à jour quelque chose dans son api et je n'ai pas pu obtenir d'informations sur cette vidéo. réessayez dans quelques secondes, mais si ce problème persiste, veuillez le signaler !",
+    "youtube.temporary_disabled": "le téléchargement youtube est temporairement désactivé en raison de restrictions du côté de youtube. nous cherchons déjà des moyens de les contourner.\n\nnous nous excusons pour l'inconvénient et faisons de notre mieux pour restaurer cette fonctionnalité. vérifiez les réseaux sociaux de cobalt ou github pour des mises à jour opportunes !",
+    "youtube.drm": "cette vidéo youtube est protégée par widevine DRM, donc je ne peux pas la télécharger. essayez un lien différent !",
+    "youtube.no_session_tokens": "impossible d'obtenir les jetons de session requis pour youtube. cela peut être causé par une restriction du côté de youtube. réessayez dans quelques secondes, mais si ce problème persiste, veuillez le signaler !"
+}

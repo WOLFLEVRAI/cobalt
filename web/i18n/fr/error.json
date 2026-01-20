@@ -1,0 +1,11 @@
+{
+  "import.no_data": "il n’y a aucun paramètre à charger depuis ce fichier. es-tu sûr que c’est le bon ?",
+  "import.invalid": "ce fichier ne contient pas de paramètres cobalt valides à importer. es-tu sûr que c’est le bon ?",
+  "import.unknown": "impossible de charger les données depuis ce fichier. il peut être corrompu ou au mauvais format. voici l’erreur reçue :\n\n{{ value }}",
+
+  "tunnel.probe": "impossible de tester ce tunnel. ton navigateur ou ta configuration réseau peut bloquer l’accès à un des serveurs cobalt. es-tu sûr de ne pas avoir d’extensions bizarres dans ton navigateur ?",
+
+  "captcha_too_long": "Cloudflare Turnstile prend trop de temps pour vérifier que tu n’es pas un bot. réessaie, mais si ça dure trop longtemps, tu peux : désactiver les extensions bizarres, changer de réseau, utiliser un autre navigateur, ou vérifier ton appareil pour des malwares.",
+
+  "pipeline.missing_response_data": "l’instance de traitement n’a pas retourné les informations de fichier nécessaires, je ne peux donc pas créer de pipeline local. réessaie dans quelques secondes et signale le problème s’il persiste !"
+}

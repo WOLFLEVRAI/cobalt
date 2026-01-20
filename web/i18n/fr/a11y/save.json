@@ -1,0 +1,13 @@
+{
+    "link_area": "zone de saisie du lien",
+    "link_area.turnstile": "zone de saisie du lien. vérification que tu n’es pas un robot.",
+    "clear_input": "effacer le lien",
+    "download": "télécharger",
+    "download.think": "traitement du lien…",
+    "download.check": "vérification du téléchargement…",
+    "download.done": "téléchargement terminé",
+    "download.error": "erreur lors du téléchargement",
+
+    "tutorial.shortcut.photos": "ajouter le raccourci Photos",
+    "tutorial.shortcut.files": "ajouter le raccourci Fichiers"
+}

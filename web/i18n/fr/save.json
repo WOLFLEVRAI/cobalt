@@ -1,0 +1,28 @@
+{
+    "paste": "coller",
+    "paste.long": "coller et télécharger",
+    "auto": "auto",
+    "audio": "audio",
+    "mute": "muet",
+    "input.placeholder": "colle le lien ici",
+    "terms.note.agreement": "en continuant, tu acceptes les",
+    "terms.note.link": "conditions et l’éthique d’utilisation",
+    
+    "services.title": "services supportés",
+    "services.title_show": "afficher les services supportés",
+    "services.title_hide": "cacher les services supportés",
+    "services.disclaimer": "le support d’un service n’implique pas d’affiliation, d’approbation ou de soutien autre que la compatibilité technique.",
+
+    "tutorial.title": "comment sauvegarder sur iOS ?",
+    "tutorial.intro": "pour sauvegarder facilement des médias sur iOS, tu dois utiliser un raccourci Siri compagnon depuis le menu de partage.",
+    "tutorial.step.1": "ajoute les raccourcis Siri compagnons :",
+    "tutorial.step.2": "appuie sur le bouton « partager » dans la fenêtre de sauvegarde de cobalt.",
+    "tutorial.step.3": "sélectionne le raccourci correspondant dans le menu de partage.",
+    "tutorial.outro": "ces raccourcis ne fonctionnent que depuis l’app cobalt, partager des liens depuis d’autres apps ne marchera pas.",
+    "tutorial.shortcut.photos": "vers Photos",
+    "tutorial.shortcut.files": "vers Fichiers",
+
+    "label.community_instance": "instance communautaire",
+
+    "tooltip.captcha": "Cloudflare Turnstile vérifie que tu n’es pas un bot, patiente !"
+}

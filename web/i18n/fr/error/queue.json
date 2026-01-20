@@ -1,0 +1,22 @@
+{
+    "no_final_file": "aucun fichier final généré",
+    "worker_didnt_start": "impossible de démarrer un worker de traitement",
+
+    "generic_error": "le worker de traitement a planté, consulte la console pour plus de détails",
+
+    "fetch.crashed": "le worker de téléchargement a planté, consulte la console pour plus de détails",
+    "fetch.bad_response": "impossible d’accéder au tunnel de fichiers",
+    "fetch.no_file_reader": "impossible d’écrire un fichier dans le cache",
+    "fetch.empty_tunnel": "le tunnel de fichiers est vide, réessaie dans quelques minutes",
+    "fetch.corrupted_file": "le fichier n’a pas été téléchargé complètement, réessaie",
+    "fetch.network_error": "le téléchargement a été interrompu par un problème réseau",
+
+    "ffmpeg.probe_failed": "impossible d’analyser ce fichier, il peut être non supporté ou corrompu",
+    "ffmpeg.out_of_memory": "mémoire disponible insuffisante, impossible de continuer",
+    "ffmpeg.no_input_format": "le format du fichier n’est pas supporté",
+    "ffmpeg.no_input_type": "le type du fichier n’est pas supporté",
+    "ffmpeg.crashed": "le worker ffmpeg a planté, consulte la console pour plus de détails",
+    "ffmpeg.no_render": "le rendu ffmpeg est vide, un problème très étrange est survenu",
+    "ffmpeg.no_args": "le worker ffmpeg n’a pas reçu les arguments nécessaires",
+    "ffmpeg.no_audio_channel": "cette vidéo n’a pas de piste audio, rien à faire"
+}

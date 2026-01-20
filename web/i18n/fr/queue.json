@@ -1,0 +1,16 @@
+{
+    "title": "file de traitement",
+    "stub": "rien ici pour l’instant, juste nous deux.\nessaye de télécharger quelque chose !",
+
+    "state.waiting": "en file d’attente",
+    "state.retrying": "réessai en cours",
+    "state.starting": "démarrage",
+
+    "state.starting.fetch": "démarrage du téléchargement",
+    "state.starting.remux": "démarrage du remux",
+    "state.starting.encode": "démarrage de la transcodage",
+
+    "state.running.remux": "remux en cours",
+    "state.running.fetch": "téléchargement en cours",
+    "state.running.encode": "transcodage en cours"
+}

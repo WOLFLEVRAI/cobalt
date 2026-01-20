@@ -1,0 +1,7 @@
+{
+    "title": "glisse ou sélectionne un fichier",
+    "title.multiple": "glisse ou sélectionne des fichiers",
+    "title.drop": "dépose le fichier ici !",
+    "title.drop.multiple": "dépose les fichiers ici !",
+    "accept": "formats supportés : {{ formats }}."
+}
